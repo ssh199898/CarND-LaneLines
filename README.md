@@ -10,8 +10,8 @@ The goals / steps of this project are the following:
 
 
 [//]: # (Image References)
-[pipeline1]: ./resources/pipeline1.png "pipeline1"
-[pipeline2]: ./resources/pipeline2.png "pipeline2"
+[pipeline1]: ./resources/pipeline1.PNG "pipeline1"
+[pipeline2]: ./resources/pipeline2.PNG "pipeline2"
 
 
 ---
