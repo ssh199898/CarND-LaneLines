@@ -42,3 +42,4 @@ Another shortcoming could be that this parameters are not adaptive. When the bri
 A possible improvement would be the adaptivity to change in conditions including brightness and weather.
 
 Another potential improvement could be the ability to distinguish the lane lines from other features/objects.
+ 
